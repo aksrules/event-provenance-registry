@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/go-chi/render"
-	eprErrors "github.com/aksrules/event-provenance-registry/pkg/errors"
-	"github.com/aksrules/event-provenance-registry/pkg/message"
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	eprErrors "github.com/sassoftware/event-provenance-registry/pkg/errors"
+	"github.com/sassoftware/event-provenance-registry/pkg/message"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 )
 
 type Server struct {

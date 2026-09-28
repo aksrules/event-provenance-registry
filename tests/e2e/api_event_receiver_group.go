@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 )
 
 const groupURI = "http://localhost:8042/api/v1/groups/"

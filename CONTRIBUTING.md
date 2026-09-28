@@ -1,6 +1,6 @@
 # Contributing
 Maintainers are accepting patches and contributions to this project.
-Please note the following contribution guidelines, and see the [SAS Open Source Contributor Handbook](https://aksrules.github.io/contributor-handbook.html) for additional guidance.
+Please note the following contribution guidelines, and see the [SAS Open Source Contributor Handbook](https://sassoftware.github.io/contributor-handbook.html) for additional guidance.
 
 ## Contributor Agreement
 Contributors to this project must comply with the [Contributor Agreement](ContributorAgreement.txt).

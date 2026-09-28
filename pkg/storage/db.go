@@ -16,9 +16,9 @@ import (
 
 	"github.com/graph-gophers/graphql-go"
 	"github.com/jackc/pgconn"
-	"github.com/aksrules/event-provenance-registry/pkg/api/graphql/schema/types"
-	eprErrors "github.com/aksrules/event-provenance-registry/pkg/errors"
-	"github.com/aksrules/event-provenance-registry/pkg/utils"
+	"github.com/sassoftware/event-provenance-registry/pkg/api/graphql/schema/types"
+	eprErrors "github.com/sassoftware/event-provenance-registry/pkg/errors"
+	"github.com/sassoftware/event-provenance-registry/pkg/utils"
 	"github.com/xeipuuv/gojsonschema"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

@@ -3,7 +3,7 @@ package e2e
 import (
 	"fmt"
 
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 )
 
 const eventURI = "http://localhost:8042/api/v1/events/"

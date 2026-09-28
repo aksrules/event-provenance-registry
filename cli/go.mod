@@ -1,13 +1,13 @@
-module github.com/aksrules/event-provenance-registry/cli
+module github.com/sassoftware/event-provenance-registry/cli
 
 go 1.21.6
 
-replace github.com/aksrules/event-provenance-registry => ../
+replace github.com/sassoftware/event-provenance-registry => ../
 
 require (
 	github.com/adrg/xdg v0.4.0
 	github.com/graph-gophers/graphql-go v1.5.1-0.20230420075959-f0f4e10d6a70
-	github.com/aksrules/event-provenance-registry v0.0.0-00010101000000-000000000000
+	github.com/sassoftware/event-provenance-registry v0.0.0-00010101000000-000000000000
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
 	gopkg.in/yaml.v3 v3.0.1

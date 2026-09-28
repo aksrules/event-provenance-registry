@@ -7,10 +7,10 @@ import (
 	"strings"
 
 	"github.com/graph-gophers/graphql-go"
-	"github.com/aksrules/event-provenance-registry/pkg/api/graphql/schema/types"
-	eprErrors "github.com/aksrules/event-provenance-registry/pkg/errors"
-	"github.com/aksrules/event-provenance-registry/pkg/message"
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/pkg/api/graphql/schema/types"
+	eprErrors "github.com/sassoftware/event-provenance-registry/pkg/errors"
+	"github.com/sassoftware/event-provenance-registry/pkg/message"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 	"github.com/xeipuuv/gojsonschema"
 )
 

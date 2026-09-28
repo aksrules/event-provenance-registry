@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/graph-gophers/graphql-go"
-	"github.com/aksrules/event-provenance-registry/tests/common"
+	"github.com/sassoftware/event-provenance-registry/tests/common"
 	"gotest.tools/v3/assert"
 )
 

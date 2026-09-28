@@ -3,7 +3,7 @@ package schema_test
 import (
 	"testing"
 
-	"github.com/aksrules/event-provenance-registry/pkg/api/graphql/schema"
+	"github.com/sassoftware/event-provenance-registry/pkg/api/graphql/schema"
 	"github.com/stretchr/testify/require"
 )
 

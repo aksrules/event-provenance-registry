@@ -15,10 +15,10 @@ import (
 	"github.com/go-chi/httplog"
 	"github.com/go-chi/render"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	"github.com/aksrules/event-provenance-registry/pkg/config"
-	"github.com/aksrules/event-provenance-registry/pkg/message"
-	"github.com/aksrules/event-provenance-registry/pkg/status"
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/pkg/config"
+	"github.com/sassoftware/event-provenance-registry/pkg/message"
+	"github.com/sassoftware/event-provenance-registry/pkg/status"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 )
 
 // Initialize starts the database, kafka message producer, middleware, and endpoints

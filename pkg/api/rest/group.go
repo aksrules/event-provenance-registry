@@ -10,9 +10,9 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/graph-gophers/graphql-go"
-	"github.com/aksrules/event-provenance-registry/pkg/epr"
-	eprErrors "github.com/aksrules/event-provenance-registry/pkg/errors"
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/pkg/epr"
+	eprErrors "github.com/sassoftware/event-provenance-registry/pkg/errors"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 )
 
 // GroupInput rest representation of the data for a storage.EventReceiverGroup

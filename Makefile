@@ -1,4 +1,4 @@
-PACKAGE  = github.com/aksrules/event-provenance-registry
+PACKAGE  = github.com/sassoftware/event-provenance-registry
 BINARY   = bin/epr-server
 COMMIT  ?= $(shell git rev-parse --short=16 HEAD)
 gitversion := $(shell git describe --tags --always --dirty --match=v* 2> /dev/null || \

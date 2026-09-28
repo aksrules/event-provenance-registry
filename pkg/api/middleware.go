@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/aksrules/event-provenance-registry/pkg/metrics"
+	"github.com/sassoftware/event-provenance-registry/pkg/metrics"
 )
 
 // using this to get the status code from the request so we can pass it to Prometheus.

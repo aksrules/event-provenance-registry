@@ -12,8 +12,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/aksrules/event-provenance-registry/pkg/client"
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/pkg/client"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"gopkg.in/yaml.v3"

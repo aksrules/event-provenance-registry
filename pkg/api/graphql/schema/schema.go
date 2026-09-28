@@ -10,9 +10,9 @@ import (
 	"strings"
 
 	"github.com/graph-gophers/graphql-go"
-	"github.com/aksrules/event-provenance-registry/pkg/api/graphql/resolvers"
-	"github.com/aksrules/event-provenance-registry/pkg/message"
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/pkg/api/graphql/resolvers"
+	"github.com/sassoftware/event-provenance-registry/pkg/message"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 )
 
 func New(connection *storage.Database, msgProducer message.TopicProducer) *graphql.Schema {

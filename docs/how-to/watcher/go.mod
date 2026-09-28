@@ -1,10 +1,10 @@
 module watcher
 
-replace github.com/aksrules/event-provenance-registry => ../../../
+replace github.com/sassoftware/event-provenance-registry => ../../../
 
 go 1.21.0
 
-require github.com/aksrules/event-provenance-registry v0.0.0-20230901192240-3d330b648418
+require github.com/sassoftware/event-provenance-registry v0.0.0-20230901192240-3d330b648418
 
 require (
 	github.com/IBM/sarama v1.38.1 // indirect

@@ -1,6 +1,6 @@
 # Announcing the Event Provenance Registry (EPR) Open Source Project
 
-[Event Provenance Registry](https://github.com/aksrules/event-provenance-registry)
+[Event Provenance Registry](https://github.com/sassoftware/event-provenance-registry)
 is a culmination of several years of [SAS's](https://www.sas.com) effort to
 convert from large-ship events to CI/CD. We built the first version internally
 to facilitate CI/CD in a complex, aging build system. The result enables SAS to
@@ -505,6 +505,6 @@ yours as well.
 
 ## Links
 
-- [EPR Repository](https://github.com/aksrules/event-provenance-registry)
+- [EPR Repository](https://github.com/sassoftware/event-provenance-registry)
 - [CD Events Documentation](https://cdevents.dev/docs/)
 - [CD Events Spec Repository](https://github.com/cdevents/spec)

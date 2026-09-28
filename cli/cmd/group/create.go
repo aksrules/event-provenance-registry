@@ -8,8 +8,8 @@ import (
 	"fmt"
 
 	"github.com/graph-gophers/graphql-go"
-	"github.com/aksrules/event-provenance-registry/cli/cmd/common"
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/cli/cmd/common"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

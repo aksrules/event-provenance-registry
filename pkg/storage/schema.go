@@ -8,7 +8,7 @@ import (
 	"io"
 
 	"github.com/graph-gophers/graphql-go"
-	"github.com/aksrules/event-provenance-registry/pkg/api/graphql/schema/types"
+	"github.com/sassoftware/event-provenance-registry/pkg/api/graphql/schema/types"
 	"gopkg.in/yaml.v3"
 )
 

@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/IBM/sarama"
-	"github.com/aksrules/event-provenance-registry/pkg/utils"
+	"github.com/sassoftware/event-provenance-registry/pkg/utils"
 )
 
 // Producer defines an interface for producing events

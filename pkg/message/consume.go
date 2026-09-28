@@ -10,7 +10,7 @@ import (
 	"sync"
 
 	"github.com/IBM/sarama"
-	"github.com/aksrules/event-provenance-registry/pkg/utils"
+	"github.com/sassoftware/event-provenance-registry/pkg/utils"
 )
 
 // ConsumerController is an abstraction around consumer groups to make them easier to use. The methods used to build this

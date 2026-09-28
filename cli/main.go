@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/aksrules/event-provenance-registry/cli/cmd"
+	"github.com/sassoftware/event-provenance-registry/cli/cmd"
 )
 
 func main() {

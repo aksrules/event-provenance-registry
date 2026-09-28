@@ -4,10 +4,10 @@ import (
 	"log/slog"
 
 	"github.com/graph-gophers/graphql-go"
-	"github.com/aksrules/event-provenance-registry/pkg/epr"
-	eprErrors "github.com/aksrules/event-provenance-registry/pkg/errors"
-	"github.com/aksrules/event-provenance-registry/pkg/message"
-	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/sassoftware/event-provenance-registry/pkg/epr"
+	eprErrors "github.com/sassoftware/event-provenance-registry/pkg/errors"
+	"github.com/sassoftware/event-provenance-registry/pkg/message"
+	"github.com/sassoftware/event-provenance-registry/pkg/storage"
 )
 
 // The MutationResolver type is used to handle mutations in a GraphQL schema and has a connection to a

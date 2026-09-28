@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/aksrules/event-provenance-registry/pkg/message"
+	"github.com/sassoftware/event-provenance-registry/pkg/message"
 	"github.com/twmb/franz-go/pkg/kgo"
 )
 

@@ -1,12 +1,12 @@
-module github.com/aksrules/event-provenance-registry/tests
+module github.com/sassoftware/event-provenance-registry/tests
 
 go 1.21
 
-replace github.com/aksrules/event-provenance-registry => ../
+replace github.com/sassoftware/event-provenance-registry => ../
 
 require (
 	github.com/graph-gophers/graphql-go v1.5.1-0.20230420075959-f0f4e10d6a70
-	github.com/aksrules/event-provenance-registry v0.0.0-20240119220400-0ea37203f496
+	github.com/sassoftware/event-provenance-registry v0.0.0-20240119220400-0ea37203f496
 	gotest.tools/v3 v3.5.1
 )
 

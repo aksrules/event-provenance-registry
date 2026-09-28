@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/jmoiron/sqlx/types"
-	"github.com/aksrules/event-provenance-registry/pkg/config"
+	"github.com/sassoftware/event-provenance-registry/pkg/config"
 	"gotest.tools/v3/assert"
 )
 
