@@ -1,4 +1,4 @@
-module github.com/sassoftware/event-provenance-registry
+module github.com/aksrules/event-provenance-registry
 
 go 1.24
 

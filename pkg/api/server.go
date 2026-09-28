@@ -6,10 +6,10 @@ package api
 import (
 	"errors"
 
-	"github.com/sassoftware/event-provenance-registry/pkg/api/graphql"
-	"github.com/sassoftware/event-provenance-registry/pkg/api/rest"
-	"github.com/sassoftware/event-provenance-registry/pkg/message"
-	"github.com/sassoftware/event-provenance-registry/pkg/storage"
+	"github.com/aksrules/event-provenance-registry/pkg/api/graphql"
+	"github.com/aksrules/event-provenance-registry/pkg/api/rest"
+	"github.com/aksrules/event-provenance-registry/pkg/message"
+	"github.com/aksrules/event-provenance-registry/pkg/storage"
 )
 
 type Server struct {

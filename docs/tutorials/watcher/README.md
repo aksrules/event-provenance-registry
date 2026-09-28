@@ -32,8 +32,8 @@ import (
  "encoding/json"
  "log"
 
- "github.com/sassoftware/event-provenance-registry/pkg/message"
- "github.com/sassoftware/event-provenance-registry/pkg/watcher"
+ "github.com/aksrules/event-provenance-registry/pkg/message"
+ "github.com/aksrules/event-provenance-registry/pkg/watcher"
 )
 
 func main() {

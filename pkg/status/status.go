@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/jmoiron/sqlx/types"
-	"github.com/sassoftware/event-provenance-registry/pkg/config"
+	"github.com/aksrules/event-provenance-registry/pkg/config"
 )
 
 // Health reports the links to the health monitors

@@ -6,7 +6,7 @@ package status
 import (
 	"fmt"
 
-	"github.com/sassoftware/event-provenance-registry/pkg/config"
+	"github.com/aksrules/event-provenance-registry/pkg/config"
 )
 
 var (

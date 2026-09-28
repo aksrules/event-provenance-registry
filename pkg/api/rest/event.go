@@ -9,9 +9,9 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/graph-gophers/graphql-go"
-	"github.com/sassoftware/event-provenance-registry/pkg/epr"
-	eprErrors "github.com/sassoftware/event-provenance-registry/pkg/errors"
-	"github.com/sassoftware/event-provenance-registry/pkg/storage"
+	"github.com/aksrules/event-provenance-registry/pkg/epr"
+	eprErrors "github.com/aksrules/event-provenance-registry/pkg/errors"
+	"github.com/aksrules/event-provenance-registry/pkg/storage"
 )
 
 func (s *Server) CreateEvent() http.HandlerFunc {

@@ -10,11 +10,11 @@ import (
 	"strings"
 
 	"github.com/adrg/xdg"
-	"github.com/sassoftware/event-provenance-registry/cli/cmd/event"
-	"github.com/sassoftware/event-provenance-registry/cli/cmd/group"
-	"github.com/sassoftware/event-provenance-registry/cli/cmd/receiver"
-	"github.com/sassoftware/event-provenance-registry/cli/cmd/status"
-	"github.com/sassoftware/event-provenance-registry/pkg/client"
+	"github.com/aksrules/event-provenance-registry/cli/cmd/event"
+	"github.com/aksrules/event-provenance-registry/cli/cmd/group"
+	"github.com/aksrules/event-provenance-registry/cli/cmd/receiver"
+	"github.com/aksrules/event-provenance-registry/cli/cmd/status"
+	"github.com/aksrules/event-provenance-registry/pkg/client"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

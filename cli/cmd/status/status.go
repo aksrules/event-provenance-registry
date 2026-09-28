@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/sassoftware/event-provenance-registry/cli/cmd/common"
+	"github.com/aksrules/event-provenance-registry/cli/cmd/common"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

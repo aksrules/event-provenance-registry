@@ -8,7 +8,7 @@ import (
 	"io"
 
 	"github.com/graph-gophers/graphql-go"
-	"github.com/sassoftware/event-provenance-registry/pkg/storage"
+	"github.com/aksrules/event-provenance-registry/pkg/storage"
 )
 
 // Response type is a struct that represents a JSON response with a data field and an optional

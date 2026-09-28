@@ -7,8 +7,8 @@ import (
 	"net/http"
 
 	"github.com/go-chi/render"
-	"github.com/sassoftware/event-provenance-registry/pkg/config"
-	"github.com/sassoftware/event-provenance-registry/pkg/status"
+	"github.com/aksrules/event-provenance-registry/pkg/config"
+	"github.com/aksrules/event-provenance-registry/pkg/status"
 )
 
 func (s *Server) CheckLiveness() http.HandlerFunc {

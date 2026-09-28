@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/sassoftware/event-provenance-registry/pkg/storage"
+	"github.com/aksrules/event-provenance-registry/pkg/storage"
 )
 
 // ensure it implements the interface

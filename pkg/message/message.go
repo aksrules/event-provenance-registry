@@ -7,8 +7,8 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/sassoftware/event-provenance-registry/pkg/storage"
-	"github.com/sassoftware/event-provenance-registry/pkg/utils"
+	"github.com/aksrules/event-provenance-registry/pkg/storage"
+	"github.com/aksrules/event-provenance-registry/pkg/utils"
 	yaml "gopkg.in/yaml.v3"
 )
 

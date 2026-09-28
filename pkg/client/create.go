@@ -6,7 +6,7 @@ package client
 import (
 	"encoding/json"
 
-	"github.com/sassoftware/event-provenance-registry/pkg/storage"
+	"github.com/aksrules/event-provenance-registry/pkg/storage"
 )
 
 // CreateEvent used to create and Event

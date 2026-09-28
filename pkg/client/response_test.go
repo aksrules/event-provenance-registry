@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sassoftware/event-provenance-registry/pkg/api/graphql/schema/types"
-	"github.com/sassoftware/event-provenance-registry/pkg/storage"
+	"github.com/aksrules/event-provenance-registry/pkg/api/graphql/schema/types"
+	"github.com/aksrules/event-provenance-registry/pkg/storage"
 	"gotest.tools/v3/assert"
 )
 

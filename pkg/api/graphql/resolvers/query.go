@@ -2,8 +2,8 @@ package resolvers
 
 import (
 	"github.com/graph-gophers/graphql-go"
-	eprErrors "github.com/sassoftware/event-provenance-registry/pkg/errors"
-	"github.com/sassoftware/event-provenance-registry/pkg/storage"
+	eprErrors "github.com/aksrules/event-provenance-registry/pkg/errors"
+	"github.com/aksrules/event-provenance-registry/pkg/storage"
 )
 
 type QueryResolver struct {
